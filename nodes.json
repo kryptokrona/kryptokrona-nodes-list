@@ -20,6 +20,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Fenrir",
+      "url": "fenrir.kryptokrona.se",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
