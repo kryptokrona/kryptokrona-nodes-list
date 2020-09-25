@@ -27,6 +27,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
-    }
+    },
+    {
+     "name": "Gamersnest",
+      "url": "pool.gamersnest.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+     }
   ]
 }
