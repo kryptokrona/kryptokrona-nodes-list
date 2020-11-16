@@ -27,6 +27,14 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+     {
+      "name": "Techynode",
+      "url": "techynode.ddns.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
+   
   ]
 }
