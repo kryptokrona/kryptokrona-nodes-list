@@ -39,7 +39,14 @@
       "url": "kryptokrona.supergott.com",
       "port": 11898,
       "ssl": false,
-      "cache": false
+      "cache": false,
+      "fee": {
+        "address": "SEKReWPJt7Ga4cuh3Bgu8YE9Ltgm97egagasbZPG1E6oHzrpqQqGqbG5NHCjL2PgUUcxiFb4yjsbJF5yKhmZZtNThrvYPJQgWWM",
+        "amount": 10000
+        },
+      "online": true,
+      "version": "1.0.0",
+      "timestamp": 1622446094
     }
   ]
 }
