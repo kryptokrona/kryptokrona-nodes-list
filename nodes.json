@@ -35,6 +35,7 @@
       "ssl": false,
       "cache": false
     },
+    {
       "name": "Ayapooli",
       "url": "kryptokrona.supergott.com",
       "port": 11898,
