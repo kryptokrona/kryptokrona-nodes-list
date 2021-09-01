@@ -9,6 +9,10 @@ Here's a list of all the known nodes, feel free to setup your own and make it pu
 
 **Göta Pool**
 
+**Blocksum** - Owned by [@Swepool](https://github.com/Swepool)
+
+**Swepool** - Owned by [@Swepool](https://github.com/Swepool)
+
 **XKR Seed**
 
 **Wasa**
@@ -16,8 +20,6 @@ Here's a list of all the known nodes, feel free to setup your own and make it pu
 **Gamersnest**
 
 **Techynode**
-
-**Blocksum** - Owned by [@313](https://github.com/Node313)
 
 **Fenrir**
 
