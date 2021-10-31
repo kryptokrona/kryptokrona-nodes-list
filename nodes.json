@@ -8,6 +8,20 @@
       "cache": false
     },
     {
+      "name": "Blocksum",
+      "url": "blocksum.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Swepool",
+      "url": "swepool.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "XKR Seed",
       "url": "seed.kryptokrona.se",
       "port": 11898,
@@ -34,6 +48,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
-     }
+    },
+    {
+      "name": "XKR duckdns",
+      "url": "xkr.duckdns.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    }
   ]
 }
