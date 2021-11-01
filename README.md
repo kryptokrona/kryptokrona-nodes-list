@@ -25,8 +25,6 @@ Here's a list of all the known nodes, feel free to setup your own and make it pu
 
 **XKR duckdns**
 
-**Ayapooli**
-
 
 
 ### How to add:
