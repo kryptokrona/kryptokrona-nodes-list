@@ -89,6 +89,47 @@
       "version": "0.0.1",
       "fee": "0.00",
       "proxy_url": "duckdns"
+    },
+    {
+      "name": "Norpool",
+      "url": "norpool.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false,
+      "version": "0.0.1",
+      "fee": "0.00",
+      "proxy_url": "norpool"
+    },
+    {
+      "name": "Privacy Mine",
+      "url": "privacymine.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false,
+      "version": "0.0.1",
+      "fee": "0.00",
+      "proxy_url": "privacymine"
+    },
+    {
+      "name": "Privacy Mine SSL",
+      "url": "privacymine.net",
+      "port": 21898,
+      "ssl": true,
+      "cache": false,
+      "version": "0.0.1",
+      "fee": "0.00",
+      "proxy_url": "privacymine"
+    },
+    {
+      "name": "Blocksum SSL",
+      "url": "testnet.kryptokrona.se",
+      "port": 443,
+      "ssl": true,
+      "cache": false,
+      "version": "0.0.1",
+      "fee": "0.00",
+      "proxy_url": "privacymine"
     }
+
   ]
 }
