@@ -131,7 +131,7 @@
       "proxy_url": "privacymine"
     },
     {
-      "name": "Drakpool",
+      "name": "DrakPool",
       "url": "drakpool.com",
       "port": 11898,
       "ssl": false,
@@ -141,3 +141,4 @@
       "proxy_url": "drakpool"
     }
 ]
+}
