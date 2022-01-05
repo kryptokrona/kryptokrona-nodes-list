@@ -61,20 +61,10 @@
       "proxy_url": "fenrir"
     },
     {
-      "name": "Techynode",
-      "url": "techynode.ddns.net",
-      "port": 11898,
-      "ssl": false,
-      "cache": false,
-      "version": "0.0.1",
-      "fee": "0.00",
-      "proxy_url": "techy"
-    },
-    {
      "name": "Gamersnest",
       "url": "pool.gamersnest.org",
       "port": 11898,
-      "ssl": false,
+      "ssl": true,
       "cache": false,
       "version": "0.0.1",
       "fee": "0.00",
