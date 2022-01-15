@@ -112,7 +112,7 @@
     },
     {
       "name": "Blocksum SSL",
-      "url": "testnet.kryptokrona.se",
+      "url": "blocksum.org",
       "port": 443,
       "ssl": true,
       "cache": false,
