@@ -149,6 +149,16 @@
       "version": "0.0.1",
       "fee": "0.00",
       "proxy_url": "spider-pig"
+    },
+        {
+      "name": "TechyNode",
+      "url": "techy.ddns.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false,
+      "version": "0.0.1",
+      "fee": "0.1",
+      "proxy_url": "spider-pig"
     }
 ]
 }
