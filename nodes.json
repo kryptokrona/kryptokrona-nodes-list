@@ -31,36 +31,6 @@
       "proxy_url": "swepool"
     },
     {
-      "name": "XKR Seed",
-      "url": "seed.kryptokrona.se",
-      "port": 11898,
-      "ssl": false,
-      "cache": false,
-      "version": "0.0.1",
-      "fee": "0.00",
-      "proxy_url": "seed"
-    },
-    {
-      "name": "Wasa",
-      "url": "wasa.kryptokrona.se",
-      "port": 11898,
-      "ssl": false,
-      "cache": false,
-      "version": "0.0.1",
-      "fee": "0.00",
-      "proxy_url": "wasa"
-    },
-    {
-      "name": "Fenrir",
-      "url": "fenrir.kryptokrona.se",
-      "port": 11898,
-      "ssl": false,
-      "cache": false,
-      "version": "0.0.1",
-      "fee": "0.00",
-      "proxy_url": "fenrir"
-    },
-    {
      "name": "Gamersnest",
       "url": "pool.gamersnest.org",
       "port": 11898,
