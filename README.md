@@ -5,34 +5,14 @@
 
 # Node list
 
-Here's a list of all the known nodes, feel free to setup your own and make it public to support the network, you can find the instructions [here](https://kryptokrona.se/en/run-a-public-node/).
-
-**Göta Pool**
-
-**Blocksum** - Owned by [@Swepool](https://github.com/Swepool)
-
-**Swepool** - Owned by [@Swepool](https://github.com/Swepool)
-
-**XKR Seed**
-
-**Wasa**
-
-**Gamersnest**
-
-**Techynode**
-
-**Fenrir**
-
-**XKR duckdns**
-
+Feel free to setup your own and make it public to support the network, you can find the instructions.
 
 
 ### How to add:
 
 - Fork this repo
 
-- Add your node to **nodes.json** and the **README.md** as well. <br>
-  (feel free to add your github or contact information to the readme)
+- Add your node to **nodes.json**
 
 - Create pull request
 - Wait for merge
