@@ -71,16 +71,6 @@
       "proxy_url": "privacymine"
     },
     {
-      "name": "Blocksum SSL",
-      "url": "blocksum.org",
-      "port": 443,
-      "ssl": true,
-      "cache": false,
-      "version": "0.0.1",
-      "fee": "0.00",
-      "proxy_url": "privacymine"
-    },
-    {
       "name": "DrakPool",
       "url": "drakpool.com",
       "port": 11898,
