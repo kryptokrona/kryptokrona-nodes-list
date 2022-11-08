@@ -251,14 +251,14 @@
             "proxy_url": "china12"
         },
         {
-            "name": "c1phx",
-            "url": "node.c1phx.com",
+            "name": "Јован",
+            "url": "node.jo7an.com",
             "port": 11898,
             "ssl": true,
             "cache": false,
             "version": "0.1.0",
             "fee": "0.0",
-            "proxy_url": "c1phx"
+            "proxy_url": "jo7an"
         }
     ]
 }
