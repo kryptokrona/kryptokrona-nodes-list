@@ -259,6 +259,16 @@
             "version": "0.1.0",
             "fee": "0.0",
             "proxy_url": "jo7an"
+        },
+        {
+            "name": "Tifo",
+            "url": "Tifo.info",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.0.1",
+            "fee": "0.00",
+            "proxy_url": "tifo"
         }
     ]
 }
