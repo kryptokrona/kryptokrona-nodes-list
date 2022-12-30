@@ -92,23 +92,13 @@
         },
         {
             "name": "TechyNode",
-            "url": "129.153.157.185",
-            "port": 11898,
-            "ssl": false,
-            "cache": false,
-            "version": "0.0.1",
-            "fee": "0.00",
-            "proxy_url": "TechyNode"
-        },
-        {
-            "name": "TechyNode-Backup",
             "url": "techy.ddns.net",
             "port": 11898,
             "ssl": false,
             "cache": false,
             "version": "0.0.1",
             "fee": "0.1",
-            "proxy_url": "TechyNode-Backup"
+            "proxy_url": "TechyNode"
         },
         {
             "name": "Wasa",
