@@ -240,5 +240,25 @@
             "fee": "0.0",
             "proxy_url": "china12"
         }
+        {
+            "name": "Växjö #1",
+            "url": "n1.vxo.nu",
+            "port": 443,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "vxo1"
+        },
+{
+            "name": "Växjö #2",
+            "url": "n2.vxo.nu",
+            "port": 443,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "vxo2"
+        }
     ]
 }
